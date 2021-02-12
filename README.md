@@ -1,4 +1,4 @@
-#Infinite Scroll
+# Infinite Scroll
 
 Used the Unsplashed API, Fetch, Async/Await, Unsplash API, DOM, Scroll Event Listener, and more to create this project!
 
